@@ -28,7 +28,7 @@ Interactive German learning website with Hebrew phonetic guides and audio pronun
 - **Voice**: Bella (German female voice)
 - **Model**: ElevenLabs Multilingual V2  
 - **Quality**: High-definition MP3 files embedded as base64
-- **File Size**: 2.1MB (includes all audio)
+- **File Size**: 2.0MB (includes all audio)
 - **Offline Ready**: Works without internet after loading
 
 ## 📱 Device Compatibility
@@ -68,5 +68,5 @@ The website includes German sentences for:
 
 🔗 **Direct Link**: https://drorhilman.github.io/german-learning-website-for-hebrew-sentences/
 
-Last updated: August 03, 2025 at 07:59 AM  
+Last updated: August 03, 2025 at 10:34 AM  
 Generated with ❤️ for German learners
