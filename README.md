@@ -68,5 +68,5 @@ The website includes German sentences for:
 
 🔗 **Direct Link**: https://drorhilman.github.io/german-learning-website-for-hebrew-sentences/
 
-Last updated: August 03, 2025 at 11:05 AM  
+Last updated: August 03, 2025 at 03:23 PM  
 Generated with ❤️ for German learners
